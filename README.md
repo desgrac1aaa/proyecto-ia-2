@@ -1,6 +1,6 @@
 # Identificación de Imágenes Auténticas y Sintéticas : Abordando los Desafíos de las Imágenes Sintéticas en la Sociedad Actual
 
-![banner](https://github.com/user-attachments/assets/b2160924-6ec2-4ea7-b949-aa8890245c97)
+![banner](banner.png)
 
 **Autores:**
 Deciré Jaimes Rodríguez, Isidro Herrera Rincón
