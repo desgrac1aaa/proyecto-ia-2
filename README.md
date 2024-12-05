@@ -10,6 +10,6 @@ Desarrollar un modelo capaz de distinguir imágenes de rostros reales de aquella
 
 **Datasets usados:** https://www.kaggle.com/datasets/hamzaboulahia/hardfakevsrealfaces/code & https://www.kaggle.com/datasets/kaustubhdhote/human-faces-dataset
 
-**Modelos:** Sequential, MobileNetV2, EfficientNetB0, MobileNetV3
+**Modelos:** CNN, Sequential, MobileNetV2, EfficientNetB0, MobileNetV3
 
 **Vídeo:** 
