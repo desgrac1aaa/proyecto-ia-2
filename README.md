@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/45b0d6e4-fea1-4b4d-8d1e-b8ac8f4a75a9)# Identificación de Imágenes Auténticas y Sintéticas : Abordando los Desafíos de las Imágenes Sintéticas en la Sociedad Actual
+# Identificación de Imágenes Auténticas y Sintéticas : Abordando los Desafíos de las Imágenes Sintéticas en la Sociedad Actual
 
 ![banner](banner.png)
 
