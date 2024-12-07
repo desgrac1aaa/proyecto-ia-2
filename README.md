@@ -13,3 +13,4 @@ Desarrollar un modelo capaz de distinguir imágenes de rostros reales de aquella
 **Modelos:** CNN, Sequential, MobileNetV2, EfficientNetB0, MobileNetV3
 
 **Vídeo:** 
+https://youtu.be/6A3tkh_b2kc
